@@ -4,10 +4,10 @@ xmlns:gap = "http://phonegap.com/ns/1.0"
 id = "com.phonegap.app2sanchez"
 version = "1.0.0">
 
-<name>PhoneGap-Beatriz</name>
+<name>JQuery</name>
 
 <description>
-Aplicacion que describe el funcionamiento de PhoneGap
+Aplicacion que describe el funcionamiento de JQueryMobile
 </description>
 
 <author href="https://example.com" email="you@example.com">
